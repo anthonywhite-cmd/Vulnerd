@@ -192,9 +192,7 @@ Three sample CSV files are included in `demo_scans/` so you can test VulNerd wit
 
 ## Built By
 
-Anthony Whiteman · Reynaldo Rodriguez · Jonathan Nava-Arenas · Luisa Faria Novy E Silva · Rickoy Cunningham
-
-Florida International University — School of Engineering & Computing
+Anthony Whiteman 
 
 ---
 
